@@ -1,2 +1,2 @@
 # algorithms_practice
-practices code
+practices code in learning algorithms
